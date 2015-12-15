@@ -1,5 +1,7 @@
 [![MINI - A naked barebone PHP application](_install/mini.png)](http://www.php-mini.com)
 
+# MINI is quick and easy to implement MVC in your PHP web application. I have tweaked a little bit of it to help me in my projects. 
+
 # MINI
 
 MINI is an extremely simple and easy to understand skeleton PHP application, reduced to the max.
