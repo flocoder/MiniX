@@ -1,4 +1,4 @@
-[![MINI - A naked barebone PHP application](_install/mini.png)](http://www.php-mini.com)
+[![MINIX - A naked barebone PHP application]
 
 # MINI is quick and easy to implement MVC in your PHP web application. I have tweaked a little bit of it to help me in my projects. This is test only.
 
